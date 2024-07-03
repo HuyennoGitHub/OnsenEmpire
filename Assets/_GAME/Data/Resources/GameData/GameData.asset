@@ -1,0 +1,1160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f894dc8590fbd5549b2b2b7a7d42862e, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  defaultUnlocked:
+  - id: area_1
+    type: 5
+    lv: 1
+    visualChosen: 0
+  - id: room_1_1
+    type: 0
+    lv: 1
+    visualChosen: 0
+  objectsData:
+  - id: room_1_1
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 1
+      unlockCost: 0
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: fee8ce0b42e508d408452a93265c876a, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 100
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 12ee428f49d72d342ada4079a80b069c, type: 3}
+      - {fileID: 6504378172706282175, guid: 73fbc7e861a47b94da6369734f2b4a15, type: 3}
+      - {fileID: 6504378172706282175, guid: f41b2f813ee56d840830faa00211b1b2, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 270
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 39d225f0bfc61e24a943d92bed7b9bf1, type: 3}
+      - {fileID: 6504378172706282175, guid: 0345e1e4ad7a8534788f57a9d76a5850, type: 3}
+      - {fileID: 6504378172706282175, guid: 01b5f8643144ddf41863b3e0f713d90f, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_1_2
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 30
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: e22aa35b1d2ad6d4990a8e156e6c1722, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 150
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: 4774cf098771607479fd164da0337a10, type: 3}
+      - {fileID: 1952728117879248262, guid: b630a0bd3b56abb4cad4f8dda1eef4ce, type: 3}
+      - {fileID: 1952728117879248262, guid: 8f0e106b321f9024f9f2ba40cb4eded6, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 300
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: ed38291664f6a2247aa7d14dd10b18e4, type: 3}
+      - {fileID: 1952728117879248262, guid: 83fa6100b0870bb4fa2d4a24887d6897, type: 3}
+      - {fileID: 1952728117879248262, guid: d7cbb2a7767238846b639eda210f6f7b, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_1_3
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 50
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: e22aa35b1d2ad6d4990a8e156e6c1722, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 220
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: 4774cf098771607479fd164da0337a10, type: 3}
+      - {fileID: 1952728117879248262, guid: b630a0bd3b56abb4cad4f8dda1eef4ce, type: 3}
+      - {fileID: 1952728117879248262, guid: 8f0e106b321f9024f9f2ba40cb4eded6, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 350
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: ed38291664f6a2247aa7d14dd10b18e4, type: 3}
+      - {fileID: 1952728117879248262, guid: 83fa6100b0870bb4fa2d4a24887d6897, type: 3}
+      - {fileID: 1952728117879248262, guid: d7cbb2a7767238846b639eda210f6f7b, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_2_1
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 300
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: e22aa35b1d2ad6d4990a8e156e6c1722, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 510
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: 4774cf098771607479fd164da0337a10, type: 3}
+      - {fileID: 1952728117879248262, guid: b630a0bd3b56abb4cad4f8dda1eef4ce, type: 3}
+      - {fileID: 1952728117879248262, guid: 8f0e106b321f9024f9f2ba40cb4eded6, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 690
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: ed38291664f6a2247aa7d14dd10b18e4, type: 3}
+      - {fileID: 1952728117879248262, guid: 83fa6100b0870bb4fa2d4a24887d6897, type: 3}
+      - {fileID: 1952728117879248262, guid: d7cbb2a7767238846b639eda210f6f7b, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_2_2
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 350
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: fee8ce0b42e508d408452a93265c876a, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 510
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 12ee428f49d72d342ada4079a80b069c, type: 3}
+      - {fileID: 6504378172706282175, guid: 73fbc7e861a47b94da6369734f2b4a15, type: 3}
+      - {fileID: 6504378172706282175, guid: f41b2f813ee56d840830faa00211b1b2, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 700
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 39d225f0bfc61e24a943d92bed7b9bf1, type: 3}
+      - {fileID: 6504378172706282175, guid: 0345e1e4ad7a8534788f57a9d76a5850, type: 3}
+      - {fileID: 6504378172706282175, guid: 01b5f8643144ddf41863b3e0f713d90f, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_2_3
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 400
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: fee8ce0b42e508d408452a93265c876a, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 570
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 12ee428f49d72d342ada4079a80b069c, type: 3}
+      - {fileID: 6504378172706282175, guid: 73fbc7e861a47b94da6369734f2b4a15, type: 3}
+      - {fileID: 6504378172706282175, guid: f41b2f813ee56d840830faa00211b1b2, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 800
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 39d225f0bfc61e24a943d92bed7b9bf1, type: 3}
+      - {fileID: 6504378172706282175, guid: 0345e1e4ad7a8534788f57a9d76a5850, type: 3}
+      - {fileID: 6504378172706282175, guid: 01b5f8643144ddf41863b3e0f713d90f, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_3_1
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 810
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: fee8ce0b42e508d408452a93265c876a, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 1100
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 12ee428f49d72d342ada4079a80b069c, type: 3}
+      - {fileID: 6504378172706282175, guid: 73fbc7e861a47b94da6369734f2b4a15, type: 3}
+      - {fileID: 6504378172706282175, guid: f41b2f813ee56d840830faa00211b1b2, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 1300
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 39d225f0bfc61e24a943d92bed7b9bf1, type: 3}
+      - {fileID: 6504378172706282175, guid: 0345e1e4ad7a8534788f57a9d76a5850, type: 3}
+      - {fileID: 6504378172706282175, guid: 01b5f8643144ddf41863b3e0f713d90f, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_3_2
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 860
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: fee8ce0b42e508d408452a93265c876a, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 1100
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 12ee428f49d72d342ada4079a80b069c, type: 3}
+      - {fileID: 6504378172706282175, guid: 73fbc7e861a47b94da6369734f2b4a15, type: 3}
+      - {fileID: 6504378172706282175, guid: f41b2f813ee56d840830faa00211b1b2, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 1400
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 39d225f0bfc61e24a943d92bed7b9bf1, type: 3}
+      - {fileID: 6504378172706282175, guid: 0345e1e4ad7a8534788f57a9d76a5850, type: 3}
+      - {fileID: 6504378172706282175, guid: 01b5f8643144ddf41863b3e0f713d90f, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_3_3
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 920
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: fee8ce0b42e508d408452a93265c876a, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 1100
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 12ee428f49d72d342ada4079a80b069c, type: 3}
+      - {fileID: 6504378172706282175, guid: 73fbc7e861a47b94da6369734f2b4a15, type: 3}
+      - {fileID: 6504378172706282175, guid: f41b2f813ee56d840830faa00211b1b2, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 1500
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 39d225f0bfc61e24a943d92bed7b9bf1, type: 3}
+      - {fileID: 6504378172706282175, guid: 0345e1e4ad7a8534788f57a9d76a5850, type: 3}
+      - {fileID: 6504378172706282175, guid: 01b5f8643144ddf41863b3e0f713d90f, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_4_1
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 1600
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: e22aa35b1d2ad6d4990a8e156e6c1722, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 1800
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: 4774cf098771607479fd164da0337a10, type: 3}
+      - {fileID: 1952728117879248262, guid: b630a0bd3b56abb4cad4f8dda1eef4ce, type: 3}
+      - {fileID: 1952728117879248262, guid: 8f0e106b321f9024f9f2ba40cb4eded6, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 2200
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: ed38291664f6a2247aa7d14dd10b18e4, type: 3}
+      - {fileID: 1952728117879248262, guid: 83fa6100b0870bb4fa2d4a24887d6897, type: 3}
+      - {fileID: 1952728117879248262, guid: d7cbb2a7767238846b639eda210f6f7b, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_4_2
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 1700
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: fee8ce0b42e508d408452a93265c876a, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 1900
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 12ee428f49d72d342ada4079a80b069c, type: 3}
+      - {fileID: 6504378172706282175, guid: 73fbc7e861a47b94da6369734f2b4a15, type: 3}
+      - {fileID: 6504378172706282175, guid: f41b2f813ee56d840830faa00211b1b2, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 2300
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 39d225f0bfc61e24a943d92bed7b9bf1, type: 3}
+      - {fileID: 6504378172706282175, guid: 0345e1e4ad7a8534788f57a9d76a5850, type: 3}
+      - {fileID: 6504378172706282175, guid: 01b5f8643144ddf41863b3e0f713d90f, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_4_3
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 1800
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: fee8ce0b42e508d408452a93265c876a, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 1900
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 12ee428f49d72d342ada4079a80b069c, type: 3}
+      - {fileID: 6504378172706282175, guid: 73fbc7e861a47b94da6369734f2b4a15, type: 3}
+      - {fileID: 6504378172706282175, guid: f41b2f813ee56d840830faa00211b1b2, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 2300
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 39d225f0bfc61e24a943d92bed7b9bf1, type: 3}
+      - {fileID: 6504378172706282175, guid: 0345e1e4ad7a8534788f57a9d76a5850, type: 3}
+      - {fileID: 6504378172706282175, guid: 01b5f8643144ddf41863b3e0f713d90f, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_5_1
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 2400
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: e22aa35b1d2ad6d4990a8e156e6c1722, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 2700
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: 4774cf098771607479fd164da0337a10, type: 3}
+      - {fileID: 1952728117879248262, guid: b630a0bd3b56abb4cad4f8dda1eef4ce, type: 3}
+      - {fileID: 1952728117879248262, guid: 8f0e106b321f9024f9f2ba40cb4eded6, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 2900
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: ed38291664f6a2247aa7d14dd10b18e4, type: 3}
+      - {fileID: 1952728117879248262, guid: 83fa6100b0870bb4fa2d4a24887d6897, type: 3}
+      - {fileID: 1952728117879248262, guid: d7cbb2a7767238846b639eda210f6f7b, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_5_2
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 2500
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: e22aa35b1d2ad6d4990a8e156e6c1722, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 2700
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: 4774cf098771607479fd164da0337a10, type: 3}
+      - {fileID: 1952728117879248262, guid: b630a0bd3b56abb4cad4f8dda1eef4ce, type: 3}
+      - {fileID: 1952728117879248262, guid: 8f0e106b321f9024f9f2ba40cb4eded6, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 3000
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: ed38291664f6a2247aa7d14dd10b18e4, type: 3}
+      - {fileID: 1952728117879248262, guid: 83fa6100b0870bb4fa2d4a24887d6897, type: 3}
+      - {fileID: 1952728117879248262, guid: d7cbb2a7767238846b639eda210f6f7b, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_5_3
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 2500
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: e22aa35b1d2ad6d4990a8e156e6c1722, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 2800
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: 4774cf098771607479fd164da0337a10, type: 3}
+      - {fileID: 1952728117879248262, guid: b630a0bd3b56abb4cad4f8dda1eef4ce, type: 3}
+      - {fileID: 1952728117879248262, guid: 8f0e106b321f9024f9f2ba40cb4eded6, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 3200
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: ed38291664f6a2247aa7d14dd10b18e4, type: 3}
+      - {fileID: 1952728117879248262, guid: 83fa6100b0870bb4fa2d4a24887d6897, type: 3}
+      - {fileID: 1952728117879248262, guid: d7cbb2a7767238846b639eda210f6f7b, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_6_1
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 3300
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: fee8ce0b42e508d408452a93265c876a, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 3700
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 12ee428f49d72d342ada4079a80b069c, type: 3}
+      - {fileID: 6504378172706282175, guid: 73fbc7e861a47b94da6369734f2b4a15, type: 3}
+      - {fileID: 6504378172706282175, guid: f41b2f813ee56d840830faa00211b1b2, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 4000
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 39d225f0bfc61e24a943d92bed7b9bf1, type: 3}
+      - {fileID: 6504378172706282175, guid: 0345e1e4ad7a8534788f57a9d76a5850, type: 3}
+      - {fileID: 6504378172706282175, guid: 01b5f8643144ddf41863b3e0f713d90f, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_6_2
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 3400
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: fee8ce0b42e508d408452a93265c876a, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 3800
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 12ee428f49d72d342ada4079a80b069c, type: 3}
+      - {fileID: 6504378172706282175, guid: 73fbc7e861a47b94da6369734f2b4a15, type: 3}
+      - {fileID: 6504378172706282175, guid: f41b2f813ee56d840830faa00211b1b2, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 4200
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 39d225f0bfc61e24a943d92bed7b9bf1, type: 3}
+      - {fileID: 6504378172706282175, guid: 0345e1e4ad7a8534788f57a9d76a5850, type: 3}
+      - {fileID: 6504378172706282175, guid: 01b5f8643144ddf41863b3e0f713d90f, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_6_3
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 3500
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: fee8ce0b42e508d408452a93265c876a, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 3900
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 12ee428f49d72d342ada4079a80b069c, type: 3}
+      - {fileID: 6504378172706282175, guid: 73fbc7e861a47b94da6369734f2b4a15, type: 3}
+      - {fileID: 6504378172706282175, guid: f41b2f813ee56d840830faa00211b1b2, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 4300
+      prefab3Ds:
+      - {fileID: 6504378172706282175, guid: 39d225f0bfc61e24a943d92bed7b9bf1, type: 3}
+      - {fileID: 6504378172706282175, guid: 0345e1e4ad7a8534788f57a9d76a5850, type: 3}
+      - {fileID: 6504378172706282175, guid: 01b5f8643144ddf41863b3e0f713d90f, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_7_1
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 4400
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: e22aa35b1d2ad6d4990a8e156e6c1722, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 4500
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: 4774cf098771607479fd164da0337a10, type: 3}
+      - {fileID: 1952728117879248262, guid: b630a0bd3b56abb4cad4f8dda1eef4ce, type: 3}
+      - {fileID: 1952728117879248262, guid: 8f0e106b321f9024f9f2ba40cb4eded6, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 4700
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: ed38291664f6a2247aa7d14dd10b18e4, type: 3}
+      - {fileID: 1952728117879248262, guid: 83fa6100b0870bb4fa2d4a24887d6897, type: 3}
+      - {fileID: 1952728117879248262, guid: d7cbb2a7767238846b639eda210f6f7b, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_7_2
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 4400
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: e22aa35b1d2ad6d4990a8e156e6c1722, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 4600
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: 4774cf098771607479fd164da0337a10, type: 3}
+      - {fileID: 1952728117879248262, guid: b630a0bd3b56abb4cad4f8dda1eef4ce, type: 3}
+      - {fileID: 1952728117879248262, guid: 8f0e106b321f9024f9f2ba40cb4eded6, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 4900
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: ed38291664f6a2247aa7d14dd10b18e4, type: 3}
+      - {fileID: 1952728117879248262, guid: 83fa6100b0870bb4fa2d4a24887d6897, type: 3}
+      - {fileID: 1952728117879248262, guid: d7cbb2a7767238846b639eda210f6f7b, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: room_7_3
+    type: 0
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 4500
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: e22aa35b1d2ad6d4990a8e156e6c1722, type: 3}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 4600
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: 4774cf098771607479fd164da0337a10, type: 3}
+      - {fileID: 1952728117879248262, guid: b630a0bd3b56abb4cad4f8dda1eef4ce, type: 3}
+      - {fileID: 1952728117879248262, guid: 8f0e106b321f9024f9f2ba40cb4eded6, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 9a5d2064811684f489a3f295fc4b6b82, type: 3}
+      - {fileID: 21300000, guid: 260190bc87e63cd4f950b6318d592072, type: 3}
+      - {fileID: 21300000, guid: c4a106a9c7c2c844298142308d81810f, type: 3}
+    - level: 3
+      unlocked: 0
+      unlockCost: 5100
+      prefab3Ds:
+      - {fileID: 1952728117879248262, guid: ed38291664f6a2247aa7d14dd10b18e4, type: 3}
+      - {fileID: 1952728117879248262, guid: 83fa6100b0870bb4fa2d4a24887d6897, type: 3}
+      - {fileID: 1952728117879248262, guid: d7cbb2a7767238846b639eda210f6f7b, type: 3}
+      avatar2D:
+      - {fileID: 21300000, guid: 50418280e65b96a42bcafa53e6a8aba1, type: 3}
+      - {fileID: 21300000, guid: 429e902be0f08384c9c7426d22250f73, type: 3}
+      - {fileID: 21300000, guid: f1491fdffb22c1243a3c7932b079e6f2, type: 3}
+  - id: cleaner_1
+    type: 1
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 80
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 130
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 3
+      unlocked: 0
+      unlockCost: 250
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: cleaner_2
+    type: 1
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 340
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 420
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 3
+      unlocked: 0
+      unlockCost: 620
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: cleaner_3
+    type: 1
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 850
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 1100
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 3
+      unlocked: 0
+      unlockCost: 1200
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: cleaner_4
+    type: 1
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 1600
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 1800
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 3
+      unlocked: 0
+      unlockCost: 1900
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: cleaner_5
+    type: 1
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 2400
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 2600
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 3
+      unlocked: 0
+      unlockCost: 3000
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: cleaner_6
+    type: 1
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 3400
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 3700
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 3
+      unlocked: 0
+      unlockCost: 4100
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: cleaner_7
+    type: 1
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 4400
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 4500
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 3
+      unlocked: 0
+      unlockCost: 5000
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: loader_1
+    type: 2
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 690
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 950
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 3
+      unlocked: 0
+      unlockCost: 1700
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: loader_2
+    type: 2
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 0
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 0
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 3
+      unlocked: 0
+      unlockCost: 4100
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: loader_3
+    type: 2
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 0
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 2
+      unlocked: 0
+      unlockCost: 0
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+    - level: 3
+      unlocked: 0
+      unlockCost: 4700
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: receptionist_1
+    type: 3
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 200
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: receptionist_2
+    type: 3
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 510
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: receptionist_3
+    type: 3
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 1900
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: sauna_1
+    type: 4
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 90
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: sauna_2
+    type: 4
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 390
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: sauna_3
+    type: 4
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 920
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: sauna_4
+    type: 4
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 1700
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: sauna_5
+    type: 4
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 2500
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: sauna_6
+    type: 4
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 3500
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: sauna_7
+    type: 4
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 4400
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: area_1
+    type: 5
+    levels:
+    - level: 1
+      unlocked: 1
+      unlockCost: 0
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: area_2
+    type: 5
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 300
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: area_3
+    type: 5
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 760
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: area_4
+    type: 5
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 1500
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: area_5
+    type: 5
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 2400
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: area_6
+    type: 5
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 3200
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: area_7
+    type: 5
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 4300
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: restaurant
+    type: 6
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 2000
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: waiter_1
+    type: 7
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 3000
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: waiter_2
+    type: 7
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 4000
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  - id: storage
+    type: 8
+    levels:
+    - level: 1
+      unlocked: 0
+      unlockCost: 0
+      prefab3Ds:
+      - {fileID: 0}
+      avatar2D: []
+  remainAmountInSauna:
+  - idSauna: sauna_1
+    remainAmountInSauna: 000000000000000000000000
+  - idSauna: sauna_2
+    remainAmountInSauna: 000000000000000000000000
+  - idSauna: sauna_3
+    remainAmountInSauna: 000000000000000000000000
+  - idSauna: sauna_4
+    remainAmountInSauna: 000000000000000000000000
+  - idSauna: sauna_5
+    remainAmountInSauna: 000000000000000000000000
+  - idSauna: sauna_6
+    remainAmountInSauna: 000000000000000000000000
+  - idSauna: sauna_7
+    remainAmountInSauna: 000000000000000000000000
+  levelSakuraRate:
+  - level: 1
+    point: 0
+    reward: 0
+  - level: 2
+    point: 30
+    reward: 300
+  - level: 3
+    point: 60
+    reward: 600
+  - level: 4
+    point: 100
+    reward: 900
+  - level: 5
+    point: 130
+    reward: 1200
+  - level: 6
+    point: 170
+    reward: 1500
+  - level: 7
+    point: 200
+    reward: 1800
+  - level: 8
+    point: 230
+    reward: 2100
+  - level: 9
+    point: 270
+    reward: 2400
+  - level: 10
+    point: 300
+    reward: 2700
+  upgradingIndex:
+  - region: 1
+    roomIndex: -1
+  - region: 2
+    roomIndex: -1
+  - region: 3
+    roomIndex: -1
+  - region: 4
+    roomIndex: -1
+  - region: 5
+    roomIndex: -1
+  - region: 6
+    roomIndex: -1
+  - region: 7
+    roomIndex: -1
+  expandAreaStatuses:
+  - areaOrder: 0
+    areaId: area_2
+    expandableConditionSakuraLevel: 2
+    status: 1
+  - areaOrder: 1
+    areaId: area_3
+    expandableConditionSakuraLevel: 3
+    status: 0
+  - areaOrder: 2
+    areaId: area_4
+    expandableConditionSakuraLevel: 4
+    status: 0
+  - areaOrder: 3
+    areaId: area_5
+    expandableConditionSakuraLevel: 5
+    status: 0
+  - areaOrder: 4
+    areaId: area_6
+    expandableConditionSakuraLevel: 6
+    status: 0
+  - areaOrder: 5
+    areaId: area_7
+    expandableConditionSakuraLevel: 7
+    status: 0

@@ -1,0 +1,771 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Univer\\DATN\\Onsen-Empire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\logic\\interaction\\refillbyduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\interaction\\refillbyduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\logic\\interaction\\refiller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\interaction\\refiller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|d:\\univer\\datn\\onsen-empire\\assets\\scripts\\logic\\interaction\\boostercollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\interaction\\boostercollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|d:\\univer\\datn\\onsen-empire\\assets\\scripts\\data\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\data\\userdata.inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\userdata.inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\data\\userdata.setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\userdata.setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\data\\userdata.sakura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\userdata.sakura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\data\\userdata.fakecash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\userdata.fakecash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\data\\userdata.cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\userdata.cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\logic\\interaction\\refillbyamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\interaction\\refillbyamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\logic\\interaction\\refillcollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\interaction\\refillcollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\logic\\interaction\\refillcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\interaction\\refillcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\logic\\interaction\\cashobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\interaction\\cashobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\logic\\player\\moneycollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\player\\moneycollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\logic\\map\\objects\\customer\\customer.usesauna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\map\\objects\\customer\\customer.usesauna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\logic\\map\\objects\\customer\\customer.useonsen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\map\\objects\\customer\\customer.useonsen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\logic\\map\\controllers\\area\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\map\\controllers\\area\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\logic\\map\\controllers\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\map\\controllers\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\logic\\map\\controllers\\mapctrl\\mapctrl.customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\map\\controllers\\mapctrl\\mapctrl.customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\logic\\map\\objects\\sauna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\map\\objects\\sauna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\ui\\panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\ui\\currencylistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\currencylistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\ui\\offerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\offerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\data\\roomdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\roomdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\data\\staffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\staffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\CustomerManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\ui\\sfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\sfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|D:\\Univer\\DATN\\Onsen-Empire\\assets\\scripts\\ui\\ingamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680E6E6-D7CE-3EEE-6348-79FFB5C282F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ingamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Player\\MoneyCollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\Upgrader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\BoosterCtrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Cleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\UpgradeCtrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\UpgradeObserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\MapCtrl\\MapCtrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Player\\PlayerInputCtrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\RefillByDuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Sauna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Upgrade\\UpgradeStaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Upgrade\\AUpgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Customer\\Customer.UseOnsen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\Reception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\Usable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Customer\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\RefillCollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BoosterCollectable.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Interaction\\BoosterCollectable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Interaction\\BoosterCollectable.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Interaction\\BoosterCollectable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Interaction\\BoosterCollectable.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:48:00.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserData.FakeCash.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\UserData.FakeCash.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\UserData.FakeCash.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\UserData.FakeCash.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\UserData.FakeCash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:25:43.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserData.Inventory.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\UserData.Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\UserData.Inventory.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\UserData.Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\UserData.Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T17:56:07.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserData.Sakura.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\UserData.Sakura.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\UserData.Sakura.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\UserData.Sakura.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\UserData.Sakura.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA1wAoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:10:19.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserData.Setting.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\UserData.Setting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\UserData.Setting.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\UserData.Setting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\UserData.Setting.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T00:25:39.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserData.Cash.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\UserData.Cash.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\UserData.Cash.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\UserData.Cash.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\UserData.Cash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:56:22.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\GameData.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\GameData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\GameData.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAA2wPwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T17:54:59.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Refiller.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Interaction\\Refiller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Interaction\\Refiller.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Interaction\\Refiller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Interaction\\Refiller.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:15:24.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\UserData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\UserData.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\UserData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\UserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T00:26:13.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RefillByDuration.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Interaction\\RefillByDuration.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Interaction\\RefillByDuration.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Interaction\\RefillByDuration.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Interaction\\RefillByDuration.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:21:19.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RefillCollectable.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Interaction\\RefillCollectable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Interaction\\RefillCollectable.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Interaction\\RefillCollectable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Interaction\\RefillCollectable.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwEAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:05:33.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RefillCollector.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Interaction\\RefillCollector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Interaction\\RefillCollector.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Interaction\\RefillCollector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Interaction\\RefillCollector.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAwwLAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:05:37.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CashObject.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Interaction\\CashObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Interaction\\CashObject.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Interaction\\CashObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Interaction\\CashObject.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:55:12.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MoneyCollector.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Player\\MoneyCollector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Player\\MoneyCollector.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Player\\MoneyCollector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Player\\MoneyCollector.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:56:04.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RefillByAmount.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Interaction\\RefillByAmount.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Interaction\\RefillByAmount.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Interaction\\RefillByAmount.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Interaction\\RefillByAmount.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA4wCcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:18:35.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.UseSauna.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Map\\Objects\\Customer\\Customer.UseSauna.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Map\\Objects\\Customer\\Customer.UseSauna.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Map\\Objects\\Customer\\Customer.UseSauna.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Map\\Objects\\Customer\\Customer.UseSauna.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwDEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:59:11.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customer.UseOnsen.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Map\\Objects\\Customer\\Customer.UseOnsen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Map\\Objects\\Customer\\Customer.UseOnsen.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Map\\Objects\\Customer\\Customer.UseOnsen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Map\\Objects\\Customer\\Customer.UseOnsen.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAwwGkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:57:52.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Area.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Map\\Controllers\\Area\\Area.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Map\\Controllers\\Area\\Area.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Map\\Controllers\\Area\\Area.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Map\\Controllers\\Area\\Area.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:54:53.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MapCtrl.Customer.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Map\\Controllers\\MapCtrl\\MapCtrl.Customer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Map\\Controllers\\MapCtrl\\MapCtrl.Customer.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Map\\Controllers\\MapCtrl\\MapCtrl.Customer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Map\\Controllers\\MapCtrl\\MapCtrl.Customer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAawCAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:53:21.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Map\\Controllers\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Map\\Controllers\\Restaurant.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Map\\Controllers\\Restaurant.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Map\\Controllers\\Restaurant.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAiwEIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:52:39.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Sauna.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Map\\Objects\\Sauna.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Map\\Objects\\Sauna.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Logic\\Map\\Objects\\Sauna.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Map\\Objects\\Sauna.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAD4v0sAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:05:36.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\CustomerManager.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\CustomerManager.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\CustomerManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T00:33:12.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SFX.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\UI\\SFX.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SFX.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\UI\\SFX.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SFX.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T00:25:31.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MoneyCollector.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Player\\MoneyCollector.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Player\\MoneyCollector.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Player\\MoneyCollector.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Player\\MoneyCollector.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAMwBgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T00:13:07.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Panel.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\UI\\Panel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Panel.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\UI\\Panel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Panel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:51:50.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StaffData.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\StaffData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\StaffData.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\StaffData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\StaffData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:56:30.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoomData.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\RoomData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\RoomData.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\Data\\RoomData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\RoomData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:56:31.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OfferPanel.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\UI\\OfferPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\OfferPanel.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\UI\\OfferPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\OfferPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:56:31.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Upgrader.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\Upgrader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\Upgrader.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\Upgrader.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\Upgrader.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwFEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T00:10:28.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BoosterCtrl.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\BoosterCtrl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\BoosterCtrl.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\BoosterCtrl.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\BoosterCtrl.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAUwFAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:50:57.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Loader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Loader.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Loader.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Loader.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAiwPAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:37:53.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Cleaner.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Cleaner.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Cleaner.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Cleaner.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Cleaner.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAK0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:37:52.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UpgradeCtrl.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\UpgradeCtrl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\UpgradeCtrl.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\UpgradeCtrl.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\UpgradeCtrl.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAjwEcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:29:24.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpgradeObserver.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\UpgradeObserver.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\UpgradeObserver.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\UpgradeObserver.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\UpgradeObserver.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:24:48.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MapCtrl.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\MapCtrl\\MapCtrl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\MapCtrl\\MapCtrl.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\MapCtrl\\MapCtrl.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\MapCtrl\\MapCtrl.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:09:36.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CurrencyListener.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\UI\\CurrencyListener.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CurrencyListener.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\UI\\CurrencyListener.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\CurrencyListener.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA+wCIAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:09:02.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IngamePanel.cs",
+              "DocumentMoniker": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\UI\\IngamePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\IngamePanel.cs",
+              "ToolTip": "D:\\Univer\\DATN\\Onsen-Empire\\Assets\\Scripts\\UI\\IngamePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\IngamePanel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:39:12.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PlayerInputCtrl.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Player\\PlayerInputCtrl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Player\\PlayerInputCtrl.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Player\\PlayerInputCtrl.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Player\\PlayerInputCtrl.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAuwL8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:24:02.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RefillByDuration.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\RefillByDuration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\RefillByDuration.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\RefillByDuration.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\RefillByDuration.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwEgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:14:55.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Sauna.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Sauna.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Sauna.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Sauna.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Sauna.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAD4v4gAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:11:29.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UpgradeStaff.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Upgrade\\UpgradeStaff.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Upgrade\\UpgradeStaff.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Upgrade\\UpgradeStaff.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Upgrade\\UpgradeStaff.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:08:19.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AUpgrade.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Upgrade\\AUpgrade.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Upgrade\\AUpgrade.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Upgrade\\AUpgrade.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Upgrade\\AUpgrade.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAIAwwHQAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:01:08.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Customer.UseOnsen.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Customer\\Customer.UseOnsen.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Customer\\Customer.UseOnsen.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Customer\\Customer.UseOnsen.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Customer\\Customer.UseOnsen.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:58:41.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Room.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Room.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Room.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Room.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAD4v5kAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:23:27.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Reception.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\Reception.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\Reception.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\Reception.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Controllers\\Reception.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAgwNIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:55:34.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Usable.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\Usable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\Usable.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\Usable.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\Usable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:26:58.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Customer\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Customer\\Customer.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Customer\\Customer.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Map\\Objects\\Customer\\Customer.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAlwJYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:17:04.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RefillCollector.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\RefillCollector.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\RefillCollector.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\RefillCollector.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1EA1i h\u1ECDc\\DATN\\Onsen-Empire\\Assets\\Scripts\\Interaction\\RefillCollector.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAD4v1cAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T17:47:21.884Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

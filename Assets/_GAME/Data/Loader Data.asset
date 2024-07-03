@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f00d640f4901f6a49af233374156aa22, type: 3}
+  m_Name: Loader Data
+  m_EditorClassIdentifier: 
+  moveSpeed:
+  - 0
+  - 1.875
+  - 1.875
+  - 1.875
+  doTaskTime:
+  - 0
+  - 0
+  - 0
+  - 0
+  maxBringAmount: 00000000010000000200000003000000
+  skin:
+  - {fileID: 2100000, guid: ea85f7aab3ba9b34990ebcbff1708a41, type: 2}
+  - {fileID: 2100000, guid: ea85f7aab3ba9b34990ebcbff1708a41, type: 2}
+  - {fileID: 2100000, guid: 89212ef1fef43884e96d89a0e62b0d08, type: 2}
+  - {fileID: 2100000, guid: 4a4a0616e9f5bc3408a75940e86cc6f2, type: 2}
